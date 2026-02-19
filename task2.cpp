@@ -4,7 +4,7 @@ using namespace std;
 struct Product {
     char name[50];
     double price;
-    int amount;   // інша назва змінної
+    int amount;  
 };
 
 int main() {
