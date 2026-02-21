@@ -19,7 +19,6 @@ int main() {
     cout << "Complex 2 - imag: ";
     cin >> c2.imag;
 
-    // Обчислюємо суму
     sum.real = c1.real + c2.real;
     sum.imag = c1.imag + c2.imag;
 
