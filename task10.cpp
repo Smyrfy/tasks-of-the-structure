@@ -32,5 +32,6 @@ int main() {
         cout << "Both rectangles have the same area (" << area1 << ")";
     }
 
+    
     return 0;
 }
